@@ -2,10 +2,9 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Theme - Nil/Tubnil.tmTheme",
-	"draw_white_space": "selection",
+	"color_scheme": "Packages/Appealr Color Scheme/appealr-color-scheme.tmTheme",
 	"draw_indent_guides": true,
-	"detect_indentation": true,
+	"draw_white_space": "selection",
 	"file_exclude_patterns":
 	[
 		".DS_Store",
@@ -18,34 +17,32 @@
 		".bundle",
 		".sass-cache"
 	],
-	"font_face": "monaco",
+	"font_face": "Source Code Pro",
 	"font_size": 12.0,
+	// "font_size": 11.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"SublimeLinter"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"match_brackets": true,
 	"match_brackets_angle": true,
 	"match_brackets_braces": true,
 	"match_brackets_content": true,
 	"match_brackets_square": true,
 	"open_files_in_new_window": false,
-	"remember_open_folders": true,
 	"remember_open_files": true,
-	// "rulers":
-	// [
-	// 	80
-	// ],
+	"remember_open_folders": true,
 	"scroll_past_end": true,
 	"scroll_speed": 2,
+	"show_full_path": true,
 	"tab_size": 4,
 	"theme": "Nil.sublime-theme",
-	//"translate_tabs_to_spaces": true,
-	// "trim_trailing_white_space_on_save": true,
+	"translate_tabs_to_spaces": true,
 	"use_simple_full_screen": true,
 	"wide_caret": true,
 	"word_wrap": true
