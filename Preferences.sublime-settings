@@ -19,7 +19,6 @@
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 12.0,
-	// "font_size": 11.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
