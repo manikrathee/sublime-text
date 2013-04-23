@@ -15,7 +15,9 @@
 	[
 		".git",
 		".bundle",
-		".sass-cache"
+		".sass-cache",
+		".svn", 
+		".hg"
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 12.0,
