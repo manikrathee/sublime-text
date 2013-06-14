@@ -16,7 +16,7 @@
 		".git",
 		".bundle",
 		".sass-cache",
-		".svn", 
+		".svn",
 		".hg"
 	],
 	"font_face": "Source Code Pro",
