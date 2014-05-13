@@ -1,10 +1,26 @@
 {
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "/",
+			"selector": "string.quoted.double.html,string.quoted.single.html, source.css"
+		}
+	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
+	"caret_extra_bottom": 2,
+  "caret_extra_top": 2,
+  "caret_extra_width": 4,
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/Appealr Color Scheme/appealr-color-scheme.tmTheme",
+	"detect_indentation": false,
 	"draw_indent_guides": true,
 	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
 		".DS_Store",
@@ -26,7 +42,11 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"SublimeLinter"
+		"Theme - Soda"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
@@ -40,11 +60,15 @@
 	"remember_open_folders": true,
 	"scroll_past_end": true,
 	"scroll_speed": 2,
+	"show_encoding": true,
 	"show_full_path": true,
 	"tab_size": 2,
-	"theme": "Nil.sublime-theme",
+	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
+	"use_tab_stops": true,
 	"wide_caret": true,
 	"word_wrap": true
 }
