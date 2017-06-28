@@ -1,4 +1,2 @@
-sublime-text
+Manik's Sublime Text 3 Preferences & Settings
 ============
-
-My sublime-text 2 settings.
